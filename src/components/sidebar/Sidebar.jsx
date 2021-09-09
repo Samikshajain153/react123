@@ -13,7 +13,7 @@ export default function Sidebar() {
             <Link to="/">
               <li className="sidebarListItem active">
                 <LineStyle className="sidebarIcon" />
-                Home
+                Home2
               </li>
             </Link>
             
